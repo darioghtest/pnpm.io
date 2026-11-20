@@ -1,13 +1,14 @@
 ---
-authors: "zkochan"
+title: "Every block Paragraph's editor makes"
 date: 2026-11-20
 slug: "paragraph-editor-blocks-test"
-title: "Every block Paragraph's editor makes"
+authors: "zkochan"
+tags: ["recap"]
 ---
 
 This article uses every block Paragraph's editor makes: **bold**, _italic_, <u>underline</u>, ~~strikethrough~~, `inline code`, and [a link](https://paragraph.com). Characters MDX trips on: \{braces\}, \<angle> brackets, and a\_b\*c.
 
-<!--truncate-->
+<!-- truncate -->
 
 An equation `E = mc^2 \frac{a}{b}` and a [**bold link**](https://paragraph.com/docs).
 
