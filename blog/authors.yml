@@ -11,3 +11,10 @@ ryansobol:
   title: Principal Software Engineer at the Seattle Times
   socials:
     github: ryansobol
+paragraph-team:
+  name: Paragraph Team
+  title: Paragraph
+  url: https://x.com/paragraph_xyz
+  image_url: https://github.com/paragraph-xyz.png
+  socials:
+    x: paragraph_xyz
