@@ -7,6 +7,8 @@ authors: "zkochan"
 
 This article uses every block Paragraph's editor makes: **bold**, _italic_, <u>underline</u>, ~~strikethrough~~, `inline code`, and [a link](https://paragraph.com). Characters MDX trips on: \{braces\}, \<angle> brackets, and a\_b\*c.
 
+<!--truncate-->
+
 An equation `E = mc^2 \frac{a}{b}` and a [**bold link**](https://paragraph.com/docs).
 
 ## Headings
